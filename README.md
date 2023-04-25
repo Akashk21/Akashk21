@@ -43,7 +43,7 @@ My name is **Akash Kumar** and I am a junior pursuing my Bachelor's in Computer 
 ![Markdown](https://img.shields.io/badge/-markdown-747578?style=for-the-badge&logo=markdown&logoColor=white)
 </h1>
 
-## <📈 GitHub Stats >  
+<!-- ## <📈 GitHub Stats >  
 
 <p align="center">
 	
@@ -61,7 +61,7 @@ My name is **Akash Kumar** and I am a junior pursuing my Bachelor's in Computer 
 
 </p>  -->
 
-
+ -->
 
 
 
