@@ -59,9 +59,7 @@ My name is **Akash Kumar** and I am a junior pursuing my Bachelor's in Computer 
 </a> <a href="https://dev.to/kverma_dev" target="_blank"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white">
 </a>
 
-</p>  -->
 
- -->
 
 
 
